@@ -28,3 +28,16 @@ The program displays the total attempts made.
 ## Technologies Used
 
 Python 3, Random module
+
+## Sample Output
+Welcome to the Number Guessing Game
+Enter the starting number of the range: 1
+Enter the ending number of the range: 50
+I have chosen a number between 1 and 50. Can you guess it?
+Enter your guess: 25
+Too low! Try again.
+Enter your guess: 40
+Too high! Try again.
+Enter your guess: 33
+Congratulations! You guessed the number in 3 attempts.
+
