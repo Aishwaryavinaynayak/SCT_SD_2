@@ -50,3 +50,7 @@ Enter your guess: 33
 
 Congratulations! You guessed the number in 3 attempts.
 
+## Author
+
+Aishwarya Vinay Nayak https://www.linkedin.com/in/aishwarya-vinay-nayak-23ba39317/
+
