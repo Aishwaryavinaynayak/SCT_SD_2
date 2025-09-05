@@ -25,6 +25,6 @@ The user guesses until the correct number is found.
 
 The program displays the total attempts made.
 
-Technologies Used
+## Technologies Used
 
 Python 3, Random module
