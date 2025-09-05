@@ -3,7 +3,7 @@
 This is a simple Number Guessing Game built in Python as part of my SkillCraft Technology Internship – Task 2.
 The program allows the user to set a number range, and then try to guess the randomly chosen number.
 
-Features
+## Features
 
 User can set a custom range for the game.
 
@@ -15,7 +15,7 @@ Tracks the number of attempts taken.
 
 Handles invalid inputs gracefully.
 
-How It Works
+## How It Works
 
 The user enters a starting and ending number.
 
